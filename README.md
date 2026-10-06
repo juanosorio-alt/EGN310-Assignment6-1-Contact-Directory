@@ -8,7 +8,9 @@ A Streamlit contact directory backed by my own Binary Search Tree implementation
 
 ## Live application
 
-**Deployment URL:** Pending Streamlit Community Cloud publication.
+**Live app:** [Open Contact Directory](https://juan-pablo-osorio-contact-directory.streamlit.app/)
+
+Deployed on Streamlit Community Cloud with Python 3.12.
 
 ## Features
 
@@ -83,7 +85,7 @@ The suite covers empty trees, duplicates and normalized search, ordered traversa
 2. In [Streamlit Community Cloud](https://share.streamlit.io/), select **Create app** and deploy from GitHub.
 3. Select this repository, branch `main`, and entrypoint `app.py`.
 4. Set Python to 3.12 in advanced settings and deploy.
-5. Copy the working app URL into **Live application** above.
+5. If deploying your own copy, update **Live application** above with its URL.
 
 See the [official deployment guide](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/deploy).
 
