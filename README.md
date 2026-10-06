@@ -1,4 +1,4 @@
-# Assignment 6.1 — Contact Directory
+# Assignment 6.2 — Contact Directory
 
 **Author:** Juan Pablo Osorio  
 **Course:** EGN 310 — Data Structures  
